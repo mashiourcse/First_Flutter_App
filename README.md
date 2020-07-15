@@ -1,7 +1,6 @@
 # team2kdop
 
-A new Flutter application.
-
+An team info app about my PMCO teammates
 ## Getting Started
 
 This project is a starting point for a Flutter application.
